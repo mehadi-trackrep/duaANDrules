@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">duaANDrules</string>
+    <string name="categories">CATEGORIES</string>
+    <string name="bookmarks">BOOKMARKS</string>
+    <string name="all_du_as">ALL-DU\'AS</string>
+
+    <string name="tab_1">TAB 1</string>
+    <string name="tab_2">TAB 2</string>
+    <string name="tab_3">TAB 3</string>
+</resources>
